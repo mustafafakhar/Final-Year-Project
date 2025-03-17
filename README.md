@@ -1,5 +1,6 @@
-<p align="center">
+<h1 align="center">
 Final Year Project</h1>
+
 This repository includes my final year project where I used python and machine learning to determine and predict the emissons of Scotland using Data Science. 
 
 The main libraries I used include Numpy for numerical analyss, Sci-kit Learn for machine learning models and matplotlib for visualizations.
