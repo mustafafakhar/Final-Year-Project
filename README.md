@@ -12,4 +12,5 @@ model and how well they fit to the dataset. For this purpose, I used R-Squared, 
 From the above models. R-Squared score was the highest for Random Forest Model. Based upon this judgement, the future emissions were determined. 
 
 ## Visualizations
-![Alt text](Visualizations/Pair Plot Diagram Historical Vs Future.png) 
+![Alt text](Visualizations/Pair_Plot_Diagram_Historical_Vs_Future.png) 
+
