@@ -13,4 +13,9 @@ From the above models. R-Squared score was the highest for Random Forest Model. 
 
 ## Visualizations
 ![Alt text](Viusalizations/Pair_Plot_Diagram_Historical_Vs_Future.png) 
+![Alt text](Viusalizations/Pair_Plot_Diagram.png)
+![Alt text](Viusalizations/Predicted_Emissions_Category_Wise.png)
+![Alt text](Viusalizations/Penguin_Style_Pairplot.png)
+
+
 
